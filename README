@@ -4,3 +4,28 @@ blown web-based interface. It makes calls based on the API. This was really made
 to cement what I've been learning in Python, but I'd like to eventually and gradually
 improve on it, and any other suggestions that can be offered to make it smoother/better syntax
 or any other general improvements, please let me know :)
+
+
+
+
+Output looks like the following:
+What would you like to see? 
+ Enter 1 to see statistics for returning visitors 
+ Enter 2 to see general info on all visitors: 1
+The number of visits from returning IP's: 60
+Of these, how many were unique (i.e., the number of returning IP's, instead of visits)? 41
+The number of actions completed by returning visits: 94
+The maximum actions performed by a single returning visitor: 16
+How many of those returning bounced? 48
+The rate at which returning visits bounced: 80%
+
+What would you like to see? 
+ Enter 1 to see statistics for returning visitors 
+ Enter 2 to see general info on all visitors: 2
+The Visitor Info for yesterday: 
+Number of total visits: 257
+Number of unique visitors: 225
+How many of those visitors bounced: 207
+Maximum actions performed by a single visitor: 17
+What percentage of visitors bounced? 81%
+Total time spent on site: 3 hours 22 min
