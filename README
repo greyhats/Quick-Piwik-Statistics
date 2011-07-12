@@ -1,0 +1,6 @@
+This is just a basic Python script to pull out data from your installation of "Piwik".
+This was made so that you can quickly check stats without having to use the full
+blown web-based interface. It makes calls based on the API. This was really made
+to cement what I've been learning in Python, but I'd like to eventually and gradually
+improve on it, and any other suggestions that can be offered to make it smoother/better syntax
+or any other general improvements, please let me know :)
